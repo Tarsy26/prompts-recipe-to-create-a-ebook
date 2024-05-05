@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/as_paginas.png"
     width="400"  
 />
 </p>
@@ -30,8 +30,8 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Leonardo.ai](https://leonardo.ai/)
+- [Canva](https://www.canva.com/pt_br/)
 
 ## 🧠 Prompts
 
@@ -40,20 +40,34 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  |Crie um título de um ebook sobre o tema praias de cancún, o ebookk é do nicho de programação e o subnicho é de praias de cancún, o título deve ser épico e curto, e tenha uma temática em uma viagem pelas praias de cancún no título, me liste 5 variações de títulos                                                       |
+| conteúdo |Faça um texto para ebook , com foco em cancún, listando os principais praias de cancún com exemplos  {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de praias em contextos reais , sempre deixe um título sugestivo por tópico
+ |
 
 
-Midjourney：
+Leonardo.ai：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Eu usei uma foto minha para fazer a capa, foi gerada pelo meu app remini(Generated with AI) do meu próprio celular.
+ |
+ | Índice| create an image showing Cancún beach with a beautiful paradisiacal beach image that makes the region one of the most visited by tourists in Mexico, with crystal clear waters in green and blue tones and heat practically all year round. Zarpo.Royal Solaris Cancún is close to Playa Delfines, one of the main beaches in Cancún. Known for its wooden viewpoint that provides a beautiful panoramic view of the place, the beach is quiet and has constant visits from birds that take advantage of the place to rest by the sea.
+ |
+| Capítulo 01 |Maya and Carlos visit Playa Delfines in the spring, where they enjoy the warm sun and gentle breeze. They explore the nearby ruins of El Rey, marveling at the ancient Mayan architecture, and end the day with a delicious seafood dinner at a beachfront restaurant.
+ |
+ | Capítulo 02 | Sofia and Alejandro spend their summer days in Playa Norte, known for its crystal-clear white sands and crystal blue waters. They snorkel at the nearby MUSA Underwater Museum and take a boat trip to Isla Mujeres, where they enjoy local cuisine and buy souvenirs.
+ |
+ | Capítulo 03 |Lúcia and Javier find tranquility at Playa Marlin in the fall, where they relax on the beach and watch the sunset. They discover a secluded spot along the coast, where they have a picnic surrounded by the beauty of nature.
+ |
+ | Capítulo 04 |Elena and Diego experience a magical winter at Playa Langosta, building sand castles and collecting shells. They stumble upon a hidden path that leads to a pristine lagoon, where they swim and enjoy the beauty of their surroundings.
+ |
+  | Capítulo 05 | Unexpected surprise:In Chapter 2, while diving in the MUSA Underwater Museum, Sofia and Alejandro encounter a rare species of fish. Excited by their discovery, they accidentally disturb the delicate ecosystem, causing the fish to scatter. Feeling guilty, they seek help from a marine biologist who teaches them about the importance of marine conservation. Together, they work to restore the ecosystem and ensure the safety of the fish.In the end, Sofia and Alejandro are happy to have learned about marine conservation and to have experienced the beauty of Cancún's beaches, realizing the importance of preserving them for future generations.
+ |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo.ai
 
 ## 📚 Materiais
 
@@ -62,31 +76,27 @@ Midjourney：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como canva.
 
-## 👨‍💻 Expert
+## 🧑🏼‍💻Expert
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/101786968?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspTarcila Reis<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/Tarsy26">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/tarcila-reis/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Tarcila Reis](https://github.com/Tarsy26)
